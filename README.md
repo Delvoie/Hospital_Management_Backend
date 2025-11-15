@@ -8,12 +8,6 @@ This repository contains systems analysis and design documentation for The BLOR 
 
 ## Repository Contents
 
-### Diagrams
-- **As-Is Contextual Diagram 1.vsdx** - Initial contextual diagram showing current system state
-- **As-Is Contextual Diagram - RJ's edited.vsdx** - Revised version of the contextual diagram
-- **Level 1 Data Flow Diagram 1.vsdx** - Initial Level 1 DFD
-- **Level 1 Data Flow Diagram - RJ's edited.vsdx** - Revised Level 1 Data Flow Diagram
-
 ### Documentation
 - **BLORCompanyReport.docx** - Main project report
 - **DataDictionary.pdf** - Data dictionary in PDF format
@@ -60,11 +54,6 @@ This project represents a comprehensive systems analysis for The BLOR Company, i
 - Data flow diagrams at multiple levels
 - Complete data dictionary
 - Project documentation and reports
-
-## Contributors
-
-- RJ (Repository Owner: RJPhenom)
-- Team members from The BLOR Company project
 
 ## Course Information
 
